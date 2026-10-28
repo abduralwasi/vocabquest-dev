@@ -1,0 +1,2394 @@
+[
+  {
+    "word": "approbation",
+    "pos": "n.",
+    "meaning": "Official approval or praise.",
+    "example": "The new safety policy won the approbation of both the workers and the management.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "laud",
+    "pos": "v.",
+    "meaning": "To praise highly, often in public.",
+    "example": "Critics lauded the young director for her bold first film.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "venerate",
+    "pos": "v.",
+    "meaning": "To regard with deep respect, almost worship.",
+    "example": "In many cultures, people venerate their ancestors.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "reverence",
+    "pos": "n.",
+    "meaning": "Deep respect mixed with awe.",
+    "example": "The pilgrims entered the ancient temple with reverence.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "deference",
+    "pos": "n.",
+    "meaning": "Polite submission to someone's opinion or authority, out of respect.",
+    "example": "Out of deference to his grandfather, he did not argue at the dinner table.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "idolatry",
+    "pos": "n.",
+    "meaning": "Worship of idols; excessive admiration of a person or thing.",
+    "example": "The fans' idolatry of the pop star bordered on obsession.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "piety",
+    "pos": "n.",
+    "meaning": "Deep religious devotion; dutiful respect.",
+    "example": "Her piety was evident in her daily prayers and charity work.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "paragon",
+    "pos": "n.",
+    "meaning": "A perfect example or model of excellence.",
+    "example": "The old doctor was a paragon of patience and kindness.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "magnanimity",
+    "pos": "n.",
+    "meaning": "Generosity and forgiveness, especially toward a rival or enemy.",
+    "example": "The champion showed magnanimity by praising his defeated opponent.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "beneficent",
+    "pos": "adj.",
+    "meaning": "Doing good; kind and charitable.",
+    "example": "A beneficent donor paid the tuition of fifty poor students.",
+    "group": "Praise, Respect & Generosity",
+    "groupNumber": 1
+  },
+  {
+    "word": "innocuous",
+    "pos": "adj.",
+    "meaning": "Harmless; not likely to offend or injure.",
+    "example": "The question seemed innocuous, but it upset her deeply.",
+    "group": "Harmless & Healthful",
+    "groupNumber": 2
+  },
+  {
+    "word": "salubrious",
+    "pos": "adj.",
+    "meaning": "Good for health; wholesome.",
+    "example": "The salubrious mountain air helped him recover quickly.",
+    "group": "Harmless & Healthful",
+    "groupNumber": 2
+  },
+  {
+    "word": "salutary",
+    "pos": "adj.",
+    "meaning": "Producing a beneficial effect, often after an unpleasant experience.",
+    "example": "Failing the first test had a salutary effect: he studied harder afterward.",
+    "group": "Harmless & Healthful",
+    "groupNumber": 2
+  },
+  {
+    "word": "aspersion",
+    "pos": "n.",
+    "meaning": "A damaging or false remark attacking someone's reputation.",
+    "example": "He cast aspersions on his rival's honesty without any proof.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "castigation",
+    "pos": "n.",
+    "meaning": "Severe criticism or punishment.",
+    "example": "The coach's public castigation of the players hurt team morale.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "denigrate",
+    "pos": "v.",
+    "meaning": "To criticize unfairly; to belittle.",
+    "example": "It is wrong to denigrate the achievements of others.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "disparage",
+    "pos": "v.",
+    "meaning": "To speak of something as having little value; to belittle.",
+    "example": "He disparaged his brother's job as \"pointless paperwork.\"",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "diatribe",
+    "pos": "n.",
+    "meaning": "A bitter, abusive verbal or written attack.",
+    "example": "The article was a long diatribe against the government's tax plan.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "tirade",
+    "pos": "n.",
+    "meaning": "A long, angry speech of criticism.",
+    "example": "The manager launched into a tirade about late arrivals.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "harangue",
+    "pos": "n./v.",
+    "meaning": "A long, aggressive lecture; to lecture someone forcefully.",
+    "example": "The principal harangued the students for nearly an hour.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "invective",
+    "pos": "n.",
+    "meaning": "Insulting, abusive language.",
+    "example": "The debate turned ugly as both sides hurled invective at each other.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "vituperative",
+    "pos": "adj.",
+    "meaning": "Full of harsh, abusive criticism.",
+    "example": "The critic's vituperative review destroyed the play's reputation.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "fulminate",
+    "pos": "v.",
+    "meaning": "To protest or criticize loudly and bitterly.",
+    "example": "The senator fulminated against corruption in his speech.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "reproach",
+    "pos": "v./n.",
+    "meaning": "To express disappointment or disapproval; a rebuke.",
+    "example": "Her mother reproached her for forgetting her grandmother's birthday.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "opprobrium",
+    "pos": "n.",
+    "meaning": "Harsh public criticism; disgrace caused by shameful conduct.",
+    "example": "The company faced international opprobrium for polluting the river.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "stigma",
+    "pos": "n.",
+    "meaning": "A mark of shame or disgrace.",
+    "example": "There is still a stigma attached to asking for help with mental health.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "execrable",
+    "pos": "adj.",
+    "meaning": "Extremely bad; detestable.",
+    "example": "The food at the roadside hotel was execrable.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "reprobate",
+    "pos": "n./adj.",
+    "meaning": "An immoral, unprincipled person.",
+    "example": "The novel's hero is a charming reprobate who gambles away his fortune.",
+    "group": "Criticism, Abuse & Disgrace",
+    "groupNumber": 3
+  },
+  {
+    "word": "obsequious",
+    "pos": "adj.",
+    "meaning": "Excessively eager to please or obey; fawning.",
+    "example": "The obsequious waiter kept bowing and refilling our glasses.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "complaisant",
+    "pos": "adj.",
+    "meaning": "Willing to please others; agreeable to a fault.",
+    "example": "The complaisant clerk agreed to every demand the customer made.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "conciliatory",
+    "pos": "adj.",
+    "meaning": "Intended to make peace or win over; soothing.",
+    "example": "After the argument, he sent her a conciliatory message.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "placate",
+    "pos": "v.",
+    "meaning": "To make someone less angry; to pacify.",
+    "example": "The airline offered free meals to placate the delayed passengers.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "mollify",
+    "pos": "v.",
+    "meaning": "To calm someone's anger or anxiety; to soften.",
+    "example": "The manager's apology did little to mollify the angry customer.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "propitiate",
+    "pos": "v.",
+    "meaning": "To win or regain the favor of someone by pleasing them.",
+    "example": "Ancient people offered sacrifices to propitiate the gods.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "solicitous",
+    "pos": "adj.",
+    "meaning": "Showing anxious care or concern for someone.",
+    "example": "The nurse was solicitous about her patient's comfort.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "officious",
+    "pos": "adj.",
+    "meaning": "Too eager to give unwanted help or advice; meddlesome.",
+    "example": "An officious guard insisted on checking our tickets three times.",
+    "group": "Flattering, Pleasing & Calming Others",
+    "groupNumber": 4
+  },
+  {
+    "word": "mendacious",
+    "pos": "adj.",
+    "meaning": "Lying; untruthful.",
+    "example": "The mendacious witness was later charged with perjury.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "prevaricate",
+    "pos": "v.",
+    "meaning": "To avoid telling the truth by speaking evasively.",
+    "example": "When asked about the missing money, he prevaricated instead of answering.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "equivocate",
+    "pos": "v.",
+    "meaning": "To use vague or ambiguous language to avoid committing oneself.",
+    "example": "The minister equivocated when reporters asked whether taxes would rise.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "dissemble",
+    "pos": "v.",
+    "meaning": "To hide one's true feelings or motives; to pretend.",
+    "example": "She dissembled her disappointment with a cheerful smile.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "disingenuous",
+    "pos": "adj.",
+    "meaning": "Insincere; pretending to know less or be more honest than one is.",
+    "example": "It is disingenuous of him to claim he never saw the email.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "chicanery",
+    "pos": "n.",
+    "meaning": "Trickery or deception, especially in legal or political matters.",
+    "example": "The election was marred by chicanery and vote-buying.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "perfidious",
+    "pos": "adj.",
+    "meaning": "Treacherous; disloyal.",
+    "example": "The perfidious general secretly sold military plans to the enemy.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "specious",
+    "pos": "adj.",
+    "meaning": "Seemingly reasonable or correct but actually false.",
+    "example": "His specious argument fooled many listeners at first.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "fallacious",
+    "pos": "adj.",
+    "meaning": "Based on a mistaken belief or faulty reasoning.",
+    "example": "The claim that vaccines cause autism is fallacious.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "cant",
+    "pos": "n.",
+    "meaning": "Insincere, hypocritical talk, especially about morals; also jargon of a group.",
+    "example": "The politician's speech was full of cant about family values.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "belie",
+    "pos": "v.",
+    "meaning": "To give a false impression of; to contradict.",
+    "example": "His calm face belied the panic he felt inside.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "insinuate",
+    "pos": "v.",
+    "meaning": "To suggest something unpleasant indirectly; to work oneself in slyly.",
+    "example": "Are you insinuating that I cheated on the exam?",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "meretricious",
+    "pos": "adj.",
+    "meaning": "Attractive on the surface but having no real value; showy.",
+    "example": "The film's meretricious special effects could not hide its weak story.",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "euphemism",
+    "pos": "n.",
+    "meaning": "A mild word used in place of one considered harsh or blunt.",
+    "example": "\"Passed away\" is a common euphemism for \"died.\"",
+    "group": "Lying, Deceit & Insincerity",
+    "groupNumber": 5
+  },
+  {
+    "word": "veracious",
+    "pos": "adj.",
+    "meaning": "Truthful; honest.",
+    "example": "Historians trust her veracious account of the war.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "probity",
+    "pos": "n.",
+    "meaning": "Strong moral principles; complete honesty.",
+    "example": "The judge was respected for his probity and fairness.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "artless",
+    "pos": "adj.",
+    "meaning": "Natural, simple and sincere; without deceit.",
+    "example": "The child's artless questions made everyone smile.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "guileless",
+    "pos": "adj.",
+    "meaning": "Innocent and without deception.",
+    "example": "Her guileless nature made her easy to trust.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "ingenuous",
+    "pos": "adj.",
+    "meaning": "Innocent, frank and unsuspecting (do not confuse with \"ingenious\" = clever).",
+    "example": "It was ingenuous of him to believe every advertisement he saw.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "gullible",
+    "pos": "adj.",
+    "meaning": "Easily fooled or tricked.",
+    "example": "Gullible tourists often pay too much for fake souvenirs.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "neophyte",
+    "pos": "n.",
+    "meaning": "A beginner; a person new to a subject or activity.",
+    "example": "As a neophyte in programming, he struggled with basic syntax.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "fledgling",
+    "pos": "n./adj.",
+    "meaning": "A young bird learning to fly; a person or organization that is new and inexperienced.",
+    "example": "The fledgling startup had only three employees.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "disabuse",
+    "pos": "v.",
+    "meaning": "To free someone from a mistaken belief.",
+    "example": "Let me disabuse you of the notion that success comes without effort.",
+    "group": "Honesty, Innocence & Inexperience",
+    "groupNumber": 6
+  },
+  {
+    "word": "obdurate",
+    "pos": "adj.",
+    "meaning": "Stubbornly refusing to change one's opinion or action.",
+    "example": "Despite all pleas for mercy, the king remained obdurate.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "intransigence",
+    "pos": "n.",
+    "meaning": "Refusal to compromise or change one's views.",
+    "example": "The union's intransigence prolonged the strike for months.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "recalcitrant",
+    "pos": "adj.",
+    "meaning": "Stubbornly disobedient; resisting authority.",
+    "example": "The teacher had to deal with a recalcitrant student who refused to sit down.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "refractory",
+    "pos": "adj.",
+    "meaning": "Stubborn and hard to control; (medical) not responding to treatment.",
+    "example": "The refractory mule would not move an inch.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "intractable",
+    "pos": "adj.",
+    "meaning": "Hard to control, manage or solve.",
+    "example": "Traffic congestion in Dhaka is an intractable problem.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "implacable",
+    "pos": "adj.",
+    "meaning": "Unable to be calmed or satisfied; relentless.",
+    "example": "He faced an implacable enemy who would never forgive him.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "dogmatic",
+    "pos": "adj.",
+    "meaning": "Insisting that one's beliefs are certainly true, without considering evidence.",
+    "example": "A dogmatic scientist ignores data that contradicts his theory.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "doctrinaire",
+    "pos": "adj.",
+    "meaning": "Rigidly applying a theory without regard to practical problems.",
+    "example": "Doctrinaire economists refused to adjust their model to reality.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "insularity",
+    "pos": "n.",
+    "meaning": "Narrow-mindedness; lack of interest in ideas or people outside one's own group.",
+    "example": "The village's insularity made newcomers feel unwelcome.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "partisan",
+    "pos": "adj./n.",
+    "meaning": "Strongly and often blindly supporting one party or cause; a strong supporter.",
+    "example": "The debate was too partisan to produce any agreement.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "ideological",
+    "pos": "adj.",
+    "meaning": "Based on or relating to a system of ideas and beliefs, especially political ones.",
+    "example": "The two parties are divided by deep ideological differences.",
+    "group": "Stubbornness & Rigid Thinking",
+    "groupNumber": 7
+  },
+  {
+    "word": "tractable",
+    "pos": "adj.",
+    "meaning": "Easy to control, manage or influence.",
+    "example": "The tractable puppy learned commands quickly.",
+    "group": "Flexible, Shapeable & Transforming",
+    "groupNumber": 8
+  },
+  {
+    "word": "malleable",
+    "pos": "adj.",
+    "meaning": "Easily shaped or bent; easily influenced.",
+    "example": "Gold is a malleable metal; young minds are equally malleable.",
+    "group": "Flexible, Shapeable & Transforming",
+    "groupNumber": 8
+  },
+  {
+    "word": "plasticity",
+    "pos": "n.",
+    "meaning": "The quality of being easily shaped or changed.",
+    "example": "The brain's plasticity allows it to recover after injury.",
+    "group": "Flexible, Shapeable & Transforming",
+    "groupNumber": 8
+  },
+  {
+    "word": "metamorphosis",
+    "pos": "n.",
+    "meaning": "A complete change of form or nature.",
+    "example": "The caterpillar's metamorphosis into a butterfly takes about two weeks.",
+    "group": "Flexible, Shapeable & Transforming",
+    "groupNumber": 8
+  },
+  {
+    "word": "irascible",
+    "pos": "adj.",
+    "meaning": "Easily angered; hot-tempered.",
+    "example": "The irascible old man shouted at children who walked on his lawn.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "truculence",
+    "pos": "n.",
+    "meaning": "Aggressive defiance; eagerness to fight.",
+    "example": "His truculence made every meeting a confrontation.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "contentious",
+    "pos": "adj.",
+    "meaning": "Causing or likely to cause argument; quarrelsome.",
+    "example": "Capital punishment remains a contentious issue.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "fractious",
+    "pos": "adj.",
+    "meaning": "Irritable and quarrelsome; hard to control.",
+    "example": "The fractious coalition collapsed within a year.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "antipathy",
+    "pos": "n.",
+    "meaning": "A strong feeling of dislike.",
+    "example": "She felt an instant antipathy toward the arrogant newcomer.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "misanthrope",
+    "pos": "n.",
+    "meaning": "A person who dislikes and distrusts humankind.",
+    "example": "The misanthrope lived alone in the forest, avoiding all contact.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "misogynist",
+    "pos": "n.",
+    "meaning": "A person who dislikes or is prejudiced against women.",
+    "example": "The misogynist remarks of the speaker drew loud protests.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "morose",
+    "pos": "adj.",
+    "meaning": "Sullen, gloomy and ill-tempered.",
+    "example": "After losing his job, he became morose and withdrawn.",
+    "group": "Hostility, Hatred & Bad Temper",
+    "groupNumber": 9
+  },
+  {
+    "word": "audacious",
+    "pos": "adj.",
+    "meaning": "Very bold and daring, sometimes recklessly or rudely.",
+    "example": "The audacious climber attempted the peak without oxygen.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "effrontery",
+    "pos": "n.",
+    "meaning": "Shameless boldness; insolence.",
+    "example": "He had the effrontery to ask for a raise after being late all month.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "presumptuous",
+    "pos": "adj.",
+    "meaning": "Overstepping proper limits; too confident or forward.",
+    "example": "It was presumptuous of him to announce the decision before the vote.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "boorish",
+    "pos": "adj.",
+    "meaning": "Rude, ill-mannered and insensitive.",
+    "example": "His boorish behavior at the wedding embarrassed his family.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "craven",
+    "pos": "adj.",
+    "meaning": "Contemptibly cowardly.",
+    "example": "The craven soldier deserted his comrades at the first gunshot.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "diffidence",
+    "pos": "n.",
+    "meaning": "Shyness caused by lack of self-confidence.",
+    "example": "Her diffidence kept her from speaking up in class.",
+    "group": "Boldness, Rudeness & Timidity",
+    "groupNumber": 10
+  },
+  {
+    "word": "garrulous",
+    "pos": "adj.",
+    "meaning": "Excessively talkative, especially about trivial things.",
+    "example": "The garrulous passenger talked to me for the entire flight.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "loquacious",
+    "pos": "adj.",
+    "meaning": "Very talkative.",
+    "example": "The loquacious host kept the party lively.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "verbose",
+    "pos": "adj.",
+    "meaning": "Using more words than necessary.",
+    "example": "The report was so verbose that nobody finished reading it.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "bombastic",
+    "pos": "adj.",
+    "meaning": "High-sounding but with little meaning; pompous.",
+    "example": "His bombastic speech impressed the crowd but said nothing new.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "grandiloquent",
+    "pos": "adj.",
+    "meaning": "Pompous or extravagant in language and style.",
+    "example": "The grandiloquent writer used ten long words where one short one would do.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "turgid",
+    "pos": "adj.",
+    "meaning": "(Of language) pompous and boring; (physically) swollen.",
+    "example": "Students struggled through the professor's turgid prose.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "hyperbole",
+    "pos": "n.",
+    "meaning": "Deliberate exaggeration for effect.",
+    "example": "\"I've told you a million times\" is a common hyperbole.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "histrionic",
+    "pos": "adj.",
+    "meaning": "Overly theatrical or dramatic in behavior.",
+    "example": "Her histrionic sobbing over a scratched phone seemed excessive.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "ostentatious",
+    "pos": "adj.",
+    "meaning": "Showy; designed to impress or attract notice.",
+    "example": "He arrived in an ostentatious gold-plated car.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "pedantic",
+    "pos": "adj.",
+    "meaning": "Overly concerned with minor details and rules, especially in showing off learning.",
+    "example": "The pedantic teacher corrected every tiny comma in our stories.",
+    "group": "Wordy, Pompous & Showy",
+    "groupNumber": 11
+  },
+  {
+    "word": "laconic",
+    "pos": "adj.",
+    "meaning": "Using very few words.",
+    "example": "His laconic reply was simply, \"No.\"",
+    "group": "Brief, Silent & Unspoken",
+    "groupNumber": 12
+  },
+  {
+    "word": "taciturn",
+    "pos": "adj.",
+    "meaning": "Habitually silent and reserved.",
+    "example": "The taciturn farmer rarely spoke more than a sentence a day.",
+    "group": "Brief, Silent & Unspoken",
+    "groupNumber": 12
+  },
+  {
+    "word": "reticent",
+    "pos": "adj.",
+    "meaning": "Not revealing one's thoughts or feelings readily; reserved.",
+    "example": "She was reticent about her personal life during the interview.",
+    "group": "Brief, Silent & Unspoken",
+    "groupNumber": 12
+  },
+  {
+    "word": "tacit",
+    "pos": "adj.",
+    "meaning": "Understood or implied without being stated.",
+    "example": "There was a tacit agreement that no one would mention the mistake.",
+    "group": "Brief, Silent & Unspoken",
+    "groupNumber": 12
+  },
+  {
+    "word": "implicit",
+    "pos": "adj.",
+    "meaning": "Implied though not directly expressed; also absolute, unquestioning.",
+    "example": "Her silence was an implicit admission of guilt.",
+    "group": "Brief, Silent & Unspoken",
+    "groupNumber": 12
+  },
+  {
+    "word": "equanimity",
+    "pos": "n.",
+    "meaning": "Mental calmness and composure, especially in difficult situations.",
+    "example": "She accepted the bad news with equanimity.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "imperturbable",
+    "pos": "adj.",
+    "meaning": "Unable to be upset or excited; very calm.",
+    "example": "The imperturbable pilot landed the damaged plane safely.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "impassive",
+    "pos": "adj.",
+    "meaning": "Showing no emotion.",
+    "example": "The judge listened with an impassive face.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "phlegmatic",
+    "pos": "adj.",
+    "meaning": "Calm and unemotional by temperament; not easily excited.",
+    "example": "His phlegmatic nature made him a good negotiator.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "stolid",
+    "pos": "adj.",
+    "meaning": "Calm, dependable and showing little emotion or imagination.",
+    "example": "The stolid guard stood motionless for hours.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "apathy",
+    "pos": "n.",
+    "meaning": "Lack of interest, enthusiasm or concern.",
+    "example": "Voter apathy led to a very low turnout.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "inured",
+    "pos": "adj.",
+    "meaning": "Accustomed to something unpleasant, and so less affected by it.",
+    "example": "Years in the army had inured him to hardship.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "insensible",
+    "pos": "adj.",
+    "meaning": "Unconscious; unaware; lacking feeling.",
+    "example": "He was insensible to the danger he was in.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "quiescent",
+    "pos": "adj.",
+    "meaning": "Inactive or at rest; dormant.",
+    "example": "The volcano has been quiescent for two hundred years.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "disinterested",
+    "pos": "adj.",
+    "meaning": "Impartial; not influenced by personal advantage (not the same as \"uninterested\").",
+    "example": "A disinterested referee is essential for a fair match.",
+    "group": "Calm, Unmoved & Indifferent",
+    "groupNumber": 13
+  },
+  {
+    "word": "indolent",
+    "pos": "adj.",
+    "meaning": "Lazy; avoiding activity.",
+    "example": "The indolent student never completed his assignments on time.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "lethargic",
+    "pos": "adj.",
+    "meaning": "Sluggish and lacking energy.",
+    "example": "The heat made everyone feel lethargic.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "lassitude",
+    "pos": "n.",
+    "meaning": "Physical or mental weariness; lack of energy.",
+    "example": "A strange lassitude came over him after the long illness.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "torpor",
+    "pos": "n.",
+    "meaning": "A state of physical or mental inactivity; sluggishness.",
+    "example": "After the huge lunch, the office fell into a torpor.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "inert",
+    "pos": "adj.",
+    "meaning": "Lacking the ability or strength to move; chemically inactive.",
+    "example": "Helium is an inert gas.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "enervate",
+    "pos": "v.",
+    "meaning": "To weaken or drain of energy.",
+    "example": "The long hot summer enervated the workers.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "effete",
+    "pos": "adj.",
+    "meaning": "Weak, worn out and lacking vitality; overly refined.",
+    "example": "The effete aristocracy could not cope with the revolution.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "soporific",
+    "pos": "adj.",
+    "meaning": "Tending to cause sleep.",
+    "example": "The lecturer's soporific voice put half the class to sleep.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "malinger",
+    "pos": "v.",
+    "meaning": "To pretend to be ill to avoid work or duty.",
+    "example": "He was accused of malingering to skip the exam.",
+    "group": "Lazy, Tired & Sluggish",
+    "groupNumber": 14
+  },
+  {
+    "word": "desultory",
+    "pos": "adj.",
+    "meaning": "Lacking a plan or purpose; random and half-hearted.",
+    "example": "They made a desultory attempt to clean the room before giving up.",
+    "group": "Careless, Hasty & Half-hearted",
+    "groupNumber": 15
+  },
+  {
+    "word": "perfunctory",
+    "pos": "adj.",
+    "meaning": "Done routinely with little care or interest.",
+    "example": "The guard gave our bags a perfunctory glance.",
+    "group": "Careless, Hasty & Half-hearted",
+    "groupNumber": 15
+  },
+  {
+    "word": "inadvertently",
+    "pos": "adv.",
+    "meaning": "Without intention; accidentally.",
+    "example": "I inadvertently deleted the important file.",
+    "group": "Careless, Hasty & Half-hearted",
+    "groupNumber": 15
+  },
+  {
+    "word": "precipitate",
+    "pos": "adj./v.",
+    "meaning": "(adj.) Done suddenly and without careful thought; (v.) to cause something to happen suddenly.",
+    "example": "His precipitate decision to quit left the team in trouble.",
+    "group": "Careless, Hasty & Half-hearted",
+    "groupNumber": 15
+  },
+  {
+    "word": "alacrity",
+    "pos": "n.",
+    "meaning": "Cheerful eagerness and readiness.",
+    "example": "She accepted the job offer with alacrity.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "assiduous",
+    "pos": "adj.",
+    "meaning": "Showing great care and constant effort; diligent.",
+    "example": "Through assiduous practice, he became a fine violinist.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "meticulous",
+    "pos": "adj.",
+    "meaning": "Extremely careful and precise about details.",
+    "example": "The meticulous accountant found the tiny error.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "exacting",
+    "pos": "adj.",
+    "meaning": "Demanding great effort, skill or accuracy.",
+    "example": "Surgery is an exacting profession.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "zealot",
+    "pos": "n.",
+    "meaning": "A person who is fanatical and uncompromising about a cause.",
+    "example": "The religious zealot refused to listen to any other view.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "arduous",
+    "pos": "adj.",
+    "meaning": "Requiring great effort; difficult and tiring.",
+    "example": "The trek to the base camp was long and arduous.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "onerous",
+    "pos": "adj.",
+    "meaning": "Burdensome; involving heavy effort or responsibility.",
+    "example": "Caring for three sick relatives was an onerous duty.",
+    "group": "Eager, Careful & Hard-working (and Hard Tasks)",
+    "groupNumber": 16
+  },
+  {
+    "word": "ebullient",
+    "pos": "adj.",
+    "meaning": "Cheerful and full of energy; bubbling with enthusiasm.",
+    "example": "The ebullient team celebrated their victory all night.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "gregarious",
+    "pos": "adj.",
+    "meaning": "Fond of company; sociable.",
+    "example": "Being gregarious, she made friends easily at university.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "levity",
+    "pos": "n.",
+    "meaning": "Humor or lack of seriousness, especially when inappropriate.",
+    "example": "His levity during the funeral offended the family.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "facetious",
+    "pos": "adj.",
+    "meaning": "Treating serious issues with inappropriate humor.",
+    "example": "Don't be facetious; this is a serious problem.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "whimsical",
+    "pos": "adj.",
+    "meaning": "Playfully quaint or fanciful; acting on sudden ideas.",
+    "example": "The garden was full of whimsical sculptures of fairies.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "felicitous",
+    "pos": "adj.",
+    "meaning": "Well chosen or suited to the situation; pleasing.",
+    "example": "Her felicitous choice of words calmed the angry crowd.",
+    "group": "Cheerful, Playful & Sociable",
+    "groupNumber": 17
+  },
+  {
+    "word": "volatile",
+    "pos": "adj.",
+    "meaning": "Liable to change rapidly and unpredictably; (chemistry) easily evaporating.",
+    "example": "The stock market has been very volatile this year.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "capricious",
+    "pos": "adj.",
+    "meaning": "Given to sudden, unaccountable changes of mood or behavior.",
+    "example": "The capricious weather changed from sunshine to storm within an hour.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "vacillate",
+    "pos": "v.",
+    "meaning": "To waver between different opinions or actions; to be indecisive.",
+    "example": "He vacillated between studying law and medicine.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "oscillate",
+    "pos": "v.",
+    "meaning": "To move or swing back and forth regularly; to waver.",
+    "example": "The pendulum oscillates steadily; his mood oscillated between hope and despair.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "irresolute",
+    "pos": "adj.",
+    "meaning": "Showing uncertainty; unable to decide.",
+    "example": "The irresolute leader lost the trust of his followers.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "ambivalence",
+    "pos": "n.",
+    "meaning": "Having mixed or contradictory feelings about something.",
+    "example": "She felt some ambivalence about moving abroad.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "precarious",
+    "pos": "adj.",
+    "meaning": "Not securely held; dangerously uncertain.",
+    "example": "The climber was in a precarious position on the cliff edge.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "sporadic",
+    "pos": "adj.",
+    "meaning": "Occurring at irregular intervals; scattered.",
+    "example": "Sporadic gunfire was heard throughout the night.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "ephemeral",
+    "pos": "adj.",
+    "meaning": "Lasting for a very short time.",
+    "example": "Fame on social media is often ephemeral.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "tenuous",
+    "pos": "adj.",
+    "meaning": "Very weak or slight; flimsy.",
+    "example": "The link between the two crimes is tenuous at best.",
+    "group": "Unstable, Changeable & Short-lived",
+    "groupNumber": 18
+  },
+  {
+    "word": "immutable",
+    "pos": "adj.",
+    "meaning": "Unchanging over time; unable to be changed.",
+    "example": "The laws of physics are immutable.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "resolute",
+    "pos": "adj.",
+    "meaning": "Firmly determined; unwavering.",
+    "example": "She was resolute in her decision to finish the marathon.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "resolved",
+    "pos": "adj.",
+    "meaning": "Firmly determined to do something (also: settled, solved).",
+    "example": "He was resolved to pay back every penny he owed.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "extant",
+    "pos": "adj.",
+    "meaning": "Still in existence; surviving.",
+    "example": "Only two copies of the ancient manuscript are extant.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "inherent",
+    "pos": "adj.",
+    "meaning": "Existing as a natural, permanent part of something.",
+    "example": "Risk is inherent in every business venture.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "endemic",
+    "pos": "adj.",
+    "meaning": "Regularly found in a particular place or group; native to an area.",
+    "example": "Malaria is endemic in some tropical regions.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "ineluctable",
+    "pos": "adj.",
+    "meaning": "Unable to be avoided; inevitable.",
+    "example": "Death is the ineluctable fate of every living creature.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "pervasive",
+    "pos": "adj.",
+    "meaning": "Spreading widely throughout an area or group.",
+    "example": "The smell of smoke was pervasive in the building.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "buttress",
+    "pos": "v./n.",
+    "meaning": "To support or strengthen; a support structure.",
+    "example": "She buttressed her argument with solid statistics.",
+    "group": "Permanent, Firm & Unavoidable",
+    "groupNumber": 19
+  },
+  {
+    "word": "burgeon",
+    "pos": "v.",
+    "meaning": "To grow or expand rapidly; to flourish.",
+    "example": "The city's population has burgeoned in the last decade.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "proliferate",
+    "pos": "v.",
+    "meaning": "To increase rapidly in number; to multiply.",
+    "example": "Fast-food outlets have proliferated around the campus.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "disseminate",
+    "pos": "v.",
+    "meaning": "To spread information or ideas widely.",
+    "example": "The internet helps disseminate news within seconds.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "diffuse",
+    "pos": "v./adj.",
+    "meaning": "(v.) To spread out over a large area; (adj.) spread out, not concentrated; wordy.",
+    "example": "The perfume diffused through the room.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "inundate",
+    "pos": "v.",
+    "meaning": "To flood; to overwhelm with things to deal with.",
+    "example": "After the announcement, the office was inundated with phone calls.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "exacerbate",
+    "pos": "v.",
+    "meaning": "To make a problem or bad situation worse.",
+    "example": "Scratching will only exacerbate the rash.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "foment",
+    "pos": "v.",
+    "meaning": "To stir up or provoke trouble or revolt.",
+    "example": "The agents tried to foment rebellion among the workers.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "catalyst",
+    "pos": "n.",
+    "meaning": "Something that speeds up a reaction or causes an important change.",
+    "example": "The protest was a catalyst for political reform.",
+    "group": "Growth, Spread & Making Worse",
+    "groupNumber": 20
+  },
+  {
+    "word": "alleviate",
+    "pos": "v.",
+    "meaning": "To make pain or a problem less severe.",
+    "example": "The medicine alleviated her headache.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "ameliorate",
+    "pos": "v.",
+    "meaning": "To make something bad better; to improve.",
+    "example": "New policies were introduced to ameliorate living conditions in the slums.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "mitigate",
+    "pos": "v.",
+    "meaning": "To make less severe, serious or painful.",
+    "example": "Planting trees can mitigate the effects of urban heat.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "attenuate",
+    "pos": "v.",
+    "meaning": "To reduce the force, effect or thickness of something; to weaken.",
+    "example": "Thick walls attenuate the noise from the street.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "vitiate",
+    "pos": "v.",
+    "meaning": "To spoil or impair the quality of; to make legally invalid.",
+    "example": "A single mistake in the data can vitiate the whole study.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "dissolution",
+    "pos": "n.",
+    "meaning": "The closing down or breaking up of an organization or relationship; disintegration.",
+    "example": "The dissolution of the parliament led to new elections.",
+    "group": "Relieving, Weakening & Breaking Down",
+    "groupNumber": 21
+  },
+  {
+    "word": "obviate",
+    "pos": "v.",
+    "meaning": "To remove a need or difficulty; to prevent in advance.",
+    "example": "Online banking obviates the need to visit a branch.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "forestall",
+    "pos": "v.",
+    "meaning": "To prevent or delay something by acting first.",
+    "example": "The government cut prices to forestall public protests.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "occlude",
+    "pos": "v.",
+    "meaning": "To block or close up an opening or passage.",
+    "example": "A blood clot occluded the artery.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "impermeable",
+    "pos": "adj.",
+    "meaning": "Not allowing fluid to pass through.",
+    "example": "The raincoat is made from impermeable fabric.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "impervious",
+    "pos": "adj.",
+    "meaning": "Not allowing fluid through; not affected or influenced by something.",
+    "example": "He seemed impervious to criticism.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "permeable",
+    "pos": "adj.",
+    "meaning": "Allowing liquids or gases to pass through.",
+    "example": "Sandy soil is more permeable than clay.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "abeyance",
+    "pos": "n.",
+    "meaning": "A state of temporary suspension or inactivity.",
+    "example": "The project is in abeyance until funding is approved.",
+    "group": "Preventing, Blocking & Suspending",
+    "groupNumber": 22
+  },
+  {
+    "word": "rescind",
+    "pos": "v.",
+    "meaning": "To cancel or revoke a law, order or agreement.",
+    "example": "The university rescinded its decision to raise fees.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "recant",
+    "pos": "v.",
+    "meaning": "To publicly withdraw a statement or belief one previously held.",
+    "example": "Under pressure, the scientist recanted his theory.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "repudiate",
+    "pos": "v.",
+    "meaning": "To refuse to accept or be associated with; to reject.",
+    "example": "The party repudiated the extremist views of its former member.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "gainsay",
+    "pos": "v.",
+    "meaning": "To deny or contradict.",
+    "example": "No one can gainsay her talent as a musician.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "refute",
+    "pos": "v.",
+    "meaning": "To prove a statement or theory to be wrong.",
+    "example": "The lawyer refuted the witness's claims with video evidence.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "demur",
+    "pos": "v.",
+    "meaning": "To raise objections or show reluctance.",
+    "example": "When asked to work on the weekend, she demurred.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "dismiss",
+    "pos": "v.",
+    "meaning": "To reject as unworthy of consideration; to send away; to fire from a job.",
+    "example": "The judge dismissed the case for lack of evidence.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "proscribe",
+    "pos": "v.",
+    "meaning": "To forbid, especially by law.",
+    "example": "The use of these chemicals is proscribed in most countries.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "relegate",
+    "pos": "v.",
+    "meaning": "To assign to a lower or less important position.",
+    "example": "The team was relegated to the second division.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "supersede",
+    "pos": "v.",
+    "meaning": "To take the place of something older or less effective.",
+    "example": "Smartphones have superseded traditional cameras for most people.",
+    "group": "Rejecting, Denying & Withdrawing",
+    "groupNumber": 23
+  },
+  {
+    "word": "paucity",
+    "pos": "n.",
+    "meaning": "The presence of something in only small amounts; scarcity.",
+    "example": "The paucity of evidence made conviction impossible.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "penury",
+    "pos": "n.",
+    "meaning": "Extreme poverty.",
+    "example": "The artist died in penury, unknown and unappreciated.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "indigence",
+    "pos": "n.",
+    "meaning": "Severe poverty; lack of basic necessities.",
+    "example": "The charity helps families living in indigence.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "frugality",
+    "pos": "n.",
+    "meaning": "Careful, economical use of money or resources.",
+    "example": "Through frugality, they saved enough to buy a house.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "abstemious",
+    "pos": "adj.",
+    "meaning": "Not self-indulgent, especially with food and drink; moderate.",
+    "example": "He led an abstemious life, eating simple meals and never drinking.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "ascetic",
+    "pos": "adj./n.",
+    "meaning": "Practicing severe self-discipline and avoiding pleasure; such a person.",
+    "example": "The ascetic monk owned nothing but a robe and a bowl.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "austere",
+    "pos": "adj.",
+    "meaning": "Severe or strict; plain and without decoration.",
+    "example": "The room was austere, with bare walls and one chair.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "plethora",
+    "pos": "n.",
+    "meaning": "An excessive amount; an overabundance.",
+    "example": "The library has a plethora of books on history.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "prodigal",
+    "pos": "adj./n.",
+    "meaning": "Wastefully extravagant with money; such a person.",
+    "example": "The prodigal son spent his entire inheritance within a year.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "satiate",
+    "pos": "v.",
+    "meaning": "To satisfy fully, or even beyond the point of desire.",
+    "example": "The huge feast satiated even the hungriest guests.",
+    "group": "Scarcity, Poverty, Thrift & Excess",
+    "groupNumber": 24
+  },
+  {
+    "word": "lucid",
+    "pos": "adj.",
+    "meaning": "Clear and easy to understand; mentally sound.",
+    "example": "She gave a lucid explanation of a difficult theory.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "limpid",
+    "pos": "adj.",
+    "meaning": "(Of liquid) completely clear; (of writing) simple and clear.",
+    "example": "We swam in the limpid waters of the lake.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "pellucid",
+    "pos": "adj.",
+    "meaning": "Transparently clear; easily understood.",
+    "example": "The author's pellucid style makes complex ideas accessible.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "delineate",
+    "pos": "v.",
+    "meaning": "To describe or outline precisely.",
+    "example": "The contract clearly delineates each partner's duties.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "ambiguous",
+    "pos": "adj.",
+    "meaning": "Open to more than one interpretation; unclear.",
+    "example": "The ambiguous instructions confused the students.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "convoluted",
+    "pos": "adj.",
+    "meaning": "Extremely complex and hard to follow.",
+    "example": "The plot of the movie was too convoluted to understand.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "tortuous",
+    "pos": "adj.",
+    "meaning": "Full of twists and turns; excessively complex.",
+    "example": "We drove up a tortuous mountain road.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "arcane",
+    "pos": "adj.",
+    "meaning": "Understood by few; mysterious and secret.",
+    "example": "The arcane rules of the old club puzzled new members.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "esoteric",
+    "pos": "adj.",
+    "meaning": "Intended for or understood by only a small group with special knowledge.",
+    "example": "The lecture was full of esoteric references to medieval philosophy.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "recondite",
+    "pos": "adj.",
+    "meaning": "Little known; obscure and difficult to understand.",
+    "example": "He enjoys reading recondite works on ancient languages.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "inchoate",
+    "pos": "adj.",
+    "meaning": "Just begun and not fully formed; undeveloped.",
+    "example": "His plans for the business are still inchoate.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "indeterminate",
+    "pos": "adj.",
+    "meaning": "Not exactly known, established or defined.",
+    "example": "The man was of indeterminate age, perhaps forty or fifty.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "confound",
+    "pos": "v.",
+    "meaning": "To confuse or surprise someone; to prove wrong.",
+    "example": "The sudden drop in sales confounded the experts.",
+    "group": "Clear vs. Obscure & Confusing",
+    "groupNumber": 25
+  },
+  {
+    "word": "banal",
+    "pos": "adj.",
+    "meaning": "So lacking in originality as to be boring.",
+    "example": "The song's lyrics were banal and predictable.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "mundane",
+    "pos": "adj.",
+    "meaning": "Lacking interest or excitement; ordinary and everyday.",
+    "example": "She was tired of mundane tasks like washing dishes.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "platitude",
+    "pos": "n.",
+    "meaning": "A remark that has been used too often to be interesting or meaningful.",
+    "example": "\"Everything happens for a reason\" is a familiar platitude.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "vapid",
+    "pos": "adj.",
+    "meaning": "Offering nothing stimulating or challenging; dull.",
+    "example": "The movie had a vapid script and wooden acting.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "insipid",
+    "pos": "adj.",
+    "meaning": "Lacking flavor; lacking interest or vigor.",
+    "example": "The soup was insipid, so I added salt and pepper.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "conventional",
+    "pos": "adj.",
+    "meaning": "Following accepted customs and practices; ordinary.",
+    "example": "He wore a conventional black suit to the interview.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "demotic",
+    "pos": "adj.",
+    "meaning": "Of or used by ordinary people; colloquial.",
+    "example": "The novel is written in a demotic style full of street slang.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "homily",
+    "pos": "n.",
+    "meaning": "A religious sermon; a tedious moral lecture.",
+    "example": "Grandfather delivered a homily on the value of hard work.",
+    "group": "Ordinary, Dull & Clichéd",
+    "groupNumber": 26
+  },
+  {
+    "word": "aberrant",
+    "pos": "adj.",
+    "meaning": "Departing from what is normal or acceptable.",
+    "example": "The doctors were puzzled by his aberrant behavior.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "anomalous",
+    "pos": "adj.",
+    "meaning": "Deviating from what is standard or expected.",
+    "example": "The anomalous test result had to be checked again.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "heterodox",
+    "pos": "adj.",
+    "meaning": "Not conforming to accepted beliefs or standards.",
+    "example": "Her heterodox views on economics shocked the committee.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "iconoclastic",
+    "pos": "adj.",
+    "meaning": "Attacking cherished beliefs or established institutions.",
+    "example": "The iconoclastic artist mocked traditional styles of painting.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "maverick",
+    "pos": "n.",
+    "meaning": "An independent person who refuses to follow the group.",
+    "example": "The maverick politician often voted against his own party.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "eclectic",
+    "pos": "adj.",
+    "meaning": "Drawing from a wide and diverse range of sources.",
+    "example": "Her music taste is eclectic, from jazz to rock to folk.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "incongruity",
+    "pos": "n.",
+    "meaning": "The state of being out of place or inconsistent.",
+    "example": "The incongruity of a tuxedo at the beach made everyone laugh.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "anachronism",
+    "pos": "n.",
+    "meaning": "Something placed in the wrong historical period; something old-fashioned.",
+    "example": "A wristwatch in a film about ancient Rome is an anachronism.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "rarefied",
+    "pos": "adj.",
+    "meaning": "Esoteric and exclusive, removed from ordinary life; (of air) thin.",
+    "example": "The professor lives in the rarefied world of pure mathematics.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "extraneous",
+    "pos": "adj.",
+    "meaning": "Irrelevant or unrelated to the subject; coming from outside.",
+    "example": "Remove extraneous details from your essay.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "tangential",
+    "pos": "adj.",
+    "meaning": "Only slightly connected; diverging from the main topic.",
+    "example": "His tangential comments distracted from the main debate.",
+    "group": "Unusual, Unorthodox & Out of Place",
+    "groupNumber": 27
+  },
+  {
+    "word": "empirical",
+    "pos": "adj.",
+    "meaning": "Based on observation or experiment rather than theory.",
+    "example": "The theory lacks empirical support.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "substantiate",
+    "pos": "v.",
+    "meaning": "To provide evidence to prove something true.",
+    "example": "She could not substantiate her claim of being robbed.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "credence",
+    "pos": "n.",
+    "meaning": "Belief in or acceptance of something as true.",
+    "example": "The new evidence gives credence to his story.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "supposition",
+    "pos": "n.",
+    "meaning": "An assumption or belief held without proof.",
+    "example": "The plan was based on the supposition that prices would remain stable.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "extrapolation",
+    "pos": "n.",
+    "meaning": "Estimating unknown values by extending known trends.",
+    "example": "Extrapolation from current data suggests the population will double.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "causality",
+    "pos": "n.",
+    "meaning": "The relationship between cause and effect.",
+    "example": "The study could not prove causality between diet and the disease.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "aver",
+    "pos": "v.",
+    "meaning": "To state or assert firmly as fact.",
+    "example": "The witness averred that she had seen the accused at the scene.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "skeptic",
+    "pos": "n.",
+    "meaning": "A person who questions or doubts accepted opinions.",
+    "example": "The skeptic demanded proof before believing the claim.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "qualified",
+    "pos": "adj.",
+    "meaning": "Limited or restricted; not complete (also: having the right skills).",
+    "example": "The plan received qualified approval, pending some changes.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "untenable",
+    "pos": "adj.",
+    "meaning": "Unable to be defended or maintained.",
+    "example": "His position became untenable after the scandal.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "viable",
+    "pos": "adj.",
+    "meaning": "Capable of working successfully; feasible.",
+    "example": "Solar energy is a viable alternative to coal.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "efficacy",
+    "pos": "n.",
+    "meaning": "The ability to produce the intended result; effectiveness.",
+    "example": "Doctors are testing the efficacy of the new drug.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "pragmatic",
+    "pos": "adj.",
+    "meaning": "Dealing with things sensibly and practically rather than by theory.",
+    "example": "We need a pragmatic solution, not an idealistic one.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "problematic",
+    "pos": "adj.",
+    "meaning": "Presenting a problem or difficulty; open to doubt.",
+    "example": "The lack of funds makes the project problematic.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "conundrum",
+    "pos": "n.",
+    "meaning": "A confusing and difficult problem or question.",
+    "example": "How to cut costs without firing staff is a real conundrum.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "fatuous",
+    "pos": "adj.",
+    "meaning": "Silly and pointless; foolish.",
+    "example": "He made a fatuous remark that made everyone groan.",
+    "group": "Evidence, Reasoning & Belief",
+    "groupNumber": 28
+  },
+  {
+    "word": "discordant",
+    "pos": "adj.",
+    "meaning": "Disagreeing or harsh-sounding; not in harmony.",
+    "example": "The meeting ended with discordant opinions on every issue.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "dissonance",
+    "pos": "n.",
+    "meaning": "Lack of harmony; a clash between sounds, beliefs or actions.",
+    "example": "There is dissonance between what he says and what he does.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "cacophonous",
+    "pos": "adj.",
+    "meaning": "Involving a harsh, discordant mixture of sounds.",
+    "example": "The cacophonous traffic made it hard to hear the phone.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "disparate",
+    "pos": "adj.",
+    "meaning": "Essentially different in kind; not comparable.",
+    "example": "The book brings together disparate ideas from science and art.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "discrete",
+    "pos": "adj.",
+    "meaning": "Individually separate and distinct (not \"discreet\" = careful).",
+    "example": "The course is divided into five discrete modules.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "discrepancy",
+    "pos": "n.",
+    "meaning": "A lack of agreement or difference between facts that should match.",
+    "example": "The auditor found a discrepancy between the two accounts.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "dichotomy",
+    "pos": "n.",
+    "meaning": "A division or contrast between two opposed things.",
+    "example": "There is a sharp dichotomy between theory and practice.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "juxtapose",
+    "pos": "v.",
+    "meaning": "To place side by side, especially to compare or contrast.",
+    "example": "The exhibition juxtaposes old photographs with modern ones.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "anarchy",
+    "pos": "n.",
+    "meaning": "A state of disorder due to absence of authority or government.",
+    "example": "After the king fled, the country descended into anarchy.",
+    "group": "Difference, Conflict & Disorder",
+    "groupNumber": 29
+  },
+  {
+    "word": "homogeneous",
+    "pos": "adj.",
+    "meaning": "Of the same kind; uniform throughout.",
+    "example": "The population of the island is ethnically homogeneous.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "commensurate",
+    "pos": "adj.",
+    "meaning": "Corresponding in size or degree; in proportion.",
+    "example": "Your salary will be commensurate with your experience.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "analogous",
+    "pos": "adj.",
+    "meaning": "Comparable in certain respects, typically to help explain.",
+    "example": "The heart is analogous to a pump.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "amalgamate",
+    "pos": "v.",
+    "meaning": "To combine or unite to form one structure.",
+    "example": "The two banks amalgamated to form a larger institution.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "concomitant",
+    "pos": "adj./n.",
+    "meaning": "Naturally accompanying or associated.",
+    "example": "Poverty and its concomitant problems affect many families.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "derivative",
+    "pos": "adj./n.",
+    "meaning": "Imitative of the work of another; something derived from another source.",
+    "example": "The critics found the novel derivative and unoriginal.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "emulate",
+    "pos": "v.",
+    "meaning": "To match or surpass, usually by imitating.",
+    "example": "Young players try to emulate their sporting heroes.",
+    "group": "Similarity, Combination & Correspondence",
+    "groupNumber": 30
+  },
+  {
+    "word": "erudite",
+    "pos": "adj.",
+    "meaning": "Having or showing great knowledge or learning.",
+    "example": "The erudite professor could quote poetry in five languages.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "sage",
+    "pos": "n./adj.",
+    "meaning": "A profoundly wise person; wise.",
+    "example": "People traveled far to seek advice from the village sage.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "profound",
+    "pos": "adj.",
+    "meaning": "Very great or intense; having deep insight.",
+    "example": "The book had a profound effect on my thinking.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "compendium",
+    "pos": "n.",
+    "meaning": "A collection of concise but detailed information on a subject.",
+    "example": "The encyclopedia is a compendium of world knowledge.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "apprise",
+    "pos": "v.",
+    "meaning": "To inform or tell someone about something.",
+    "example": "Please apprise me of any changes to the schedule.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "elicit",
+    "pos": "v.",
+    "meaning": "To draw out a response, answer or fact from someone.",
+    "example": "The teacher's question failed to elicit any answer.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "metaphysical",
+    "pos": "adj.",
+    "meaning": "Relating to abstract philosophy about the nature of reality; beyond the physical.",
+    "example": "They debated metaphysical questions about the existence of the soul.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "existential",
+    "pos": "adj.",
+    "meaning": "Relating to existence; concerned with the meaning of human life.",
+    "example": "The pandemic caused many people to have an existential crisis.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "cosmology",
+    "pos": "n.",
+    "meaning": "The science of the origin and structure of the universe.",
+    "example": "Modern cosmology is based on the Big Bang theory.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "sentient",
+    "pos": "adj.",
+    "meaning": "Able to perceive or feel things.",
+    "example": "Animals are sentient beings that can feel pain.",
+    "group": "Knowledge, Learning & Philosophy",
+    "groupNumber": 31
+  },
+  {
+    "word": "penchant",
+    "pos": "n.",
+    "meaning": "A strong liking or habit for something.",
+    "example": "She has a penchant for spicy food.",
+    "group": "Tendencies & Urgent Needs",
+    "groupNumber": 32
+  },
+  {
+    "word": "propensity",
+    "pos": "n.",
+    "meaning": "A natural tendency to behave in a certain way.",
+    "example": "He has a propensity to exaggerate his achievements.",
+    "group": "Tendencies & Urgent Needs",
+    "groupNumber": 32
+  },
+  {
+    "word": "pathological",
+    "pos": "adj.",
+    "meaning": "Compulsive and extreme; caused by disease.",
+    "example": "He is a pathological liar who cannot stop making up stories.",
+    "group": "Tendencies & Urgent Needs",
+    "groupNumber": 32
+  },
+  {
+    "word": "exigency",
+    "pos": "n.",
+    "meaning": "An urgent need or demand; an emergency.",
+    "example": "The exigencies of war forced people to ration food.",
+    "group": "Tendencies & Urgent Needs",
+    "groupNumber": 32
+  },
+  {
+    "word": "propriety",
+    "pos": "n.",
+    "meaning": "Conformity to accepted standards of behavior or morals.",
+    "example": "She always behaved with complete propriety.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "decorum",
+    "pos": "n.",
+    "meaning": "Behavior in keeping with good taste and dignity.",
+    "example": "The students maintained decorum during the ceremony.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "appropriate",
+    "pos": "adj./v.",
+    "meaning": "(adj.) Suitable or proper; (v.) to take for one's own use, often without permission.",
+    "example": "The official appropriated public funds for his private use.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "transgression",
+    "pos": "n.",
+    "meaning": "An act that goes against a law, rule or moral code.",
+    "example": "He apologized for his transgressions.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "sanction",
+    "pos": "n./v.",
+    "meaning": "Official permission or approval; also a penalty for disobeying a law.",
+    "example": "The UN imposed economic sanctions on the country.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "stipulate",
+    "pos": "v.",
+    "meaning": "To demand or specify as part of an agreement.",
+    "example": "The contract stipulates that payment must be made within 30 days.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "exculpate",
+    "pos": "v.",
+    "meaning": "To show or declare someone not guilty.",
+    "example": "New DNA evidence exculpated the prisoner.",
+    "group": "Proper Conduct, Rules & Wrongdoing",
+    "groupNumber": 33
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adj./n.",
+    "meaning": "Concerned with beauty or the appreciation of beauty.",
+    "example": "The building has great aesthetic appeal.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "sensual",
+    "pos": "adj.",
+    "meaning": "Relating to physical, especially bodily, pleasure.",
+    "example": "He enjoyed the sensual pleasures of good food and wine.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "sensuous",
+    "pos": "adj.",
+    "meaning": "Appealing to the senses, especially in an artistic way.",
+    "example": "The poem is full of sensuous descriptions of the garden.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "sartorial",
+    "pos": "adj.",
+    "meaning": "Relating to tailoring, clothes, or style of dress.",
+    "example": "His sartorial elegance made him stand out at the party.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "embellish",
+    "pos": "v.",
+    "meaning": "To decorate; to make a story more interesting by adding details, often untrue.",
+    "example": "He embellished his story to make himself look braver.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "burnish",
+    "pos": "v.",
+    "meaning": "To polish by rubbing; to improve or enhance.",
+    "example": "The company hired a PR firm to burnish its image.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "pristine",
+    "pos": "adj.",
+    "meaning": "In its original condition; unspoiled and very clean.",
+    "example": "The car was in pristine condition despite being 30 years old.",
+    "group": "Senses, Appearance & Decoration",
+    "groupNumber": 34
+  },
+  {
+    "word": "igneous",
+    "pos": "adj.",
+    "meaning": "(Of rock) formed from cooled lava or magma; relating to fire.",
+    "example": "Granite is an igneous rock.",
+    "group": "Science & Physical Properties",
+    "groupNumber": 35
+  },
+  {
+    "word": "viscous",
+    "pos": "adj.",
+    "meaning": "Thick and sticky; not flowing freely.",
+    "example": "Honey is more viscous than water.",
+    "group": "Science & Physical Properties",
+    "groupNumber": 35
+  },
+  {
+    "word": "striated",
+    "pos": "adj.",
+    "meaning": "Marked with parallel lines, grooves or stripes.",
+    "example": "The cliffs were striated with layers of colored rock.",
+    "group": "Science & Physical Properties",
+    "groupNumber": 35
+  },
+  {
+    "word": "coagulate",
+    "pos": "v.",
+    "meaning": "(Of a liquid, especially blood) to change to a solid or semi-solid state.",
+    "example": "Blood begins to coagulate soon after a cut.",
+    "group": "Science & Physical Properties",
+    "groupNumber": 35
+  },
+  {
+    "word": "desiccate",
+    "pos": "v.",
+    "meaning": "To remove moisture from; to dry out completely.",
+    "example": "The desert sun desiccated the fallen leaves.",
+    "group": "Science & Physical Properties",
+    "groupNumber": 35
+  },
+  {
+    "word": "precursor",
+    "pos": "n.",
+    "meaning": "A person or thing that comes before another of the same kind; a forerunner.",
+    "example": "The telegraph was a precursor of the telephone.",
+    "group": "Beginnings, Endings & Mourning",
+    "groupNumber": 36
+  },
+  {
+    "word": "denouement",
+    "pos": "n.",
+    "meaning": "The final part of a story where everything is resolved.",
+    "example": "In the denouement, the detective reveals the murderer.",
+    "group": "Beginnings, Endings & Mourning",
+    "groupNumber": 36
+  },
+  {
+    "word": "elegy",
+    "pos": "n.",
+    "meaning": "A sad poem or song, especially a lament for the dead.",
+    "example": "He wrote an elegy for his late father.",
+    "group": "Beginnings, Endings & Mourning",
+    "groupNumber": 36
+  }
+]
